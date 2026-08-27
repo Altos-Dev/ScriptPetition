@@ -29,6 +29,7 @@ Installer Playwright :
 ```bash
 python -m pip install playwright
 ```
+Installer Chronium :
 ```bash
 python -m pip install chromium
 ```
