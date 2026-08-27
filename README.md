@@ -46,3 +46,5 @@ ScriptPetition/
 ├── emails.json
 └── README.md
 ```
+
+> 📧 **Note:** The `emails.json` file contains **700,000 email addresses** used as data for the automation.
