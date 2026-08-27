@@ -1,19 +1,19 @@
 # 🤖 MyPetition Bot — https://www.mypetition.org/
 
-**MyPetition Bot** est un projet Python basé sur **Playwright** qui automatise un formulaire de pétition sur un site web.
+**MyPetition Bot** is a Python project based on **Playwright** that automates a petition form on a website.
 
-## 📌 Fonctionnement
+## 📌 How It Works
 
-Le bot est capable de :
+The bot is able to:
 
-* 🌐 Ouvrir automatiquement une page web
-* 🍪 Interagir avec une fenêtre de consentement aux cookies
-* 📧 Détecter un champ d'adresse e-mail
-* ✍️ Remplir automatiquement le champ avec une adresse e-mail
-* 🔘 Sélectionner une option dans le formulaire
-* 🖱️ Interagir avec un bouton
-* 🔄 Répéter le scénario avec plusieurs données de test
-* 🧪 Servir de base pour des tests automatisés
+* 🌐 Automatically open a web page
+* 🍪 Interact with a cookie consent window
+* 📧 Detect an email address field
+* ✍️ Automatically fill in the field with an email address
+* 🔘 Select an option in the form
+* 🖱️ Interact with a button
+* 🔄 Repeat the scenario with multiple test data entries
+* 🧪 Serve as a foundation for automated testing
 
 ## 🛠️ Technologies
 
@@ -23,21 +23,21 @@ Le bot est capable de :
 
 ## 🛠️ Installation
 
-### Installer Playwright
+### Install Playwright
 
 ```bash
 python -m pip install playwright
 ```
 
-### Installer Chromium
+### Install Chromium
 
-Après l'installation de Playwright, installez le navigateur Chromium avec :
+After installing Playwright, install the Chromium browser with:
 
 ```bash
 playwright install chromium
 ```
 
-## 📁 Structure du projet
+## 📁 Project Structure
 
 ```text
 ScriptPetition/
