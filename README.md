@@ -22,6 +22,17 @@ Le bot est capable de :
 - Playwright
 - Chromium
 
+## 🛠️ Installation
+
+Installer Playwright :
+
+```bash
+python -m pip install playwright
+```
+```bash
+python -m pip install chromium
+```
+
 ## 📁 Structure
 
 ```text
